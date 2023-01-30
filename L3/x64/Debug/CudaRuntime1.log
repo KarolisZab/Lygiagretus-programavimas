@@ -1,0 +1,12 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  C:\Users\karuo\source\repos\CudaRuntime1>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.0\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "D:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\bin\HostX86\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.0\include" -I"C:\DEV\vcpkg\installed\x64-windows\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.0\include"  -G   --keep-dir x64\Debug  -maxrregcount=0  --machine 64 --compile -cudart static  -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc142.pdb /FS /Zi /RTC1 /MDd " -o C:\Users\karuo\source\repos\CudaRuntime1\x64\Debug\kernel.cu.obj "C:\Users\karuo\source\repos\CudaRuntime1\kernel.cu" 
+C:\Users\karuo\source\repos\CudaRuntime1\kernel.cu(1): warning C4005: '__CUDACC__': macro redefinition
+C:\Users\karuo\source\repos\CudaRuntime1\kernel.cu(1): warning C4005: '__CUDACC__': macro redefinition
+C:\Users\karuo\source\repos\CudaRuntime1\kernel.cu(113): warning #177-D: variable "fp_sum" was declared but never referenced
+  
+  Remark: The warnings can be suppressed with "-diag-suppress <warning-number>"
+  
+  kernel.cu
+  tmpxft_000014b4_00000000-7_kernel.cudafe1.cpp
+  CudaRuntime1.vcxproj -> C:\Users\karuo\source\repos\CudaRuntime1\x64\Debug\CudaRuntime1.exe
