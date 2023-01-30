@@ -1,0 +1,4 @@
+﻿  IFF06_ZabinskisK_L1a.cpp
+C:\Users\karuo\source\repos\L1aaa\IFF06_ZabinskisK_L1a.cpp(177,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\karuo\source\repos\L1aaa\IFF06_ZabinskisK_L1a.cpp(241,20): warning C4018: '<': signed/unsigned mismatch
+  L1aaa.vcxproj -> C:\Users\karuo\source\repos\L1aaa\Debug\L1aaa.exe

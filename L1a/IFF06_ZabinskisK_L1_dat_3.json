@@ -1,0 +1,153 @@
+[
+  {
+
+    "name": "Cucumber",
+    "quantity": 30,
+    "price": 10.66
+  },
+  {
+    "name": "Lemon",
+    "quantity": 25,
+    "price": 30.23
+  },
+  {
+    "name": "Champignon",
+    "quantity": 40,
+    "price": 40.43
+  },
+  {
+    "name": "Tomato",
+    "quantity": 31,
+    "price": 50.59
+  },
+  {
+    "name": "Potato",
+    "quantity": 25,
+    "price": 40.40
+  },
+  {
+    "name": "Carrot",
+    "quantity": 49,
+    "price": 10.63
+  },
+  {
+    "name": "Apple",
+    "quantity": 33,
+    "price": 9.77
+  },
+  {
+    "name": "Pear",
+    "quantity": 48,
+    "price": 31.71
+  },
+  {
+    "name": "Pineapple",
+    "quantity": 34,
+    "price": 42.42
+  },
+  {
+    "name": "Peach",
+    "quantity": 34,
+    "price": 17.73
+  },
+  {
+    "name": "Avocado",
+    "quantity": 22,
+    "price": 10.15
+  },
+  {
+    "name": "Grapefruit",
+    "quantity": 33,
+    "price": 45.78
+  },
+  {
+    "name": "Pumpkin",
+    "quantity": 32,
+    "price": 31.02
+  },
+  {
+    "name": "Watermelon",
+    "quantity": 35,
+    "price": 18.23
+  },
+  {
+    "name": "Melon",
+    "quantity": 27,
+    "price": 41.03
+  },
+  {
+    "name": "Onion",
+    "quantity": 26,
+    "price": 16.52
+  },
+  {
+    "name": "Chili",
+    "quantity": 26,
+    "price": 65.48
+  },
+  {
+    "name": "Banana",
+    "quantity": 33,
+    "price": 10.53
+  },
+  {
+    "name": "Beet",
+    "quantity": 47,
+    "price": 50.44
+  },
+  {
+    "name": "Mango",
+    "quantity": 27,
+    "price": 40.56
+  },
+  {
+    "name": "Strawberry",
+    "quantity": 43,
+    "price": 47.19
+  },
+  {
+    "name": "Orange",
+    "quantity": 37,
+    "price": 20.41
+  },
+  {
+    "name": "Blueberry",
+    "quantity": 23,
+    "price": 20.18
+  },
+  {
+    "name": "Asparagus",
+    "quantity": 35,
+    "price": 81.47
+  },
+  {
+    "name": "Tamarind",
+    "quantity": 27,
+    "price": 20.02
+  },
+  {
+    "name": "Garlic",
+    "quantity": 50,
+    "price": 8.36
+  },
+  {
+    "name": "Cabbage",
+    "quantity": 20,
+    "price": 11.09
+  },
+  {
+    "name": "Radish",
+    "quantity": 23,
+    "price": 30.29
+  },
+  {
+    "name": "Broccoli",
+    "quantity": 24,
+    "price": 10.66
+  },
+  {
+    "name": "Zucchini",
+    "quantity": 22,
+    "price": 20.89
+  }
+]
